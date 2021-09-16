@@ -22,5 +22,5 @@
 * [Books | Learn Finance](https://books.learnfinance.fun) - Full stack E-commerce app built with MERN stack and Dation CSS to recommend books to a niche category of users who are looking to start their personal finance journey.
 * [Videos | Learn Finance](https://videos.learnfinance.fun) - Video library app built with MERN stack and Dation CSS.
 * [Notes | Learn Finance](https://notes.learnfinance.fun) - Notes taking app built with MERN stack and Dation CSS (using TypeScript).
-* [Quiz | Learn Finance](https://quiz.learnfinance.fun) - Quiz app with quizes on topics like technical analysis, options trading etc. Built MERN stack (using TypeScript and Redux)
+* [Quiz | Learn Finance](https://quiz.learnfinance.fun) - Quiz app with quizzes on topics like technical analysis, options trading etc. Built with MERN stack (using TypeScript and Redux)
 * [Social | Learn Finance](https://social.learnfinance.fun) - Social media app with built MERN stack (using TypeScript and Redux)

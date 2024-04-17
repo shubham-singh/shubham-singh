@@ -13,8 +13,7 @@
 <br />
 
 ### About Me 🚀
-🎓 I’m a Fullstack developer looking for a full time role (preferably in Front-End) </br>
-👨‍💻  I am passionate about building intuitive user experiences </br>
+🎓 Passionate Engineer. Works on React, Typescript, NodeJS largely and a bit of Python too</br>
 
 
 ### Projects 🙌
